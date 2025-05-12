@@ -51,7 +51,14 @@ This license is separate from the `LICENSE` (AGPLv3) applied to the core softwar
 The documentation is provided under **restricted personal license**, and it is **not free content**.  
 Violations may result in DMCA takedown, public delisting, or legal action.
 
+Any unauthorized reuse or redistribution may result in DMCA takedown notices, de-indexing, or legal action.
+
 ---
 
 For license-related inquiries, contact:  
 📧 [legal@univital.net](mailto:legal@univital.net)
+
+<br/>
+
+Digital Signature / Hash: `TBD`  
+For validation purposes, this document may be timestamped.
