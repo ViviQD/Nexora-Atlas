@@ -1,0 +1,2 @@
+# all text files should be stored in LF, but use the platform-specific one during checkout
+* text=auto
