@@ -1,8 +1,8 @@
-# 📄 DOCS_LICENSE.md – ViviComm Atlas Documentation License
+# 📄 DOCS_LICENSE.md - Nexora Atlas Documentation License
 
 © 2025 Róbert Kovács. All rights reserved.
 
-This license governs the use, reuse, citation, and reproduction of all documentation under the **ViviComm Atlas** and associated projects, including but not limited to:
+This license governs the use, reuse, citation, and reproduction of all documentation under the **Nexora Atlas** and associated projects, including but not limited to:
 
 - All content in the `/docs` and `/legal` directories  
 - Architectural diagrams, legal disclaimers, technical schemas  
@@ -38,7 +38,7 @@ You may:
 
 You may not:
 
-- Publish, fork, or clone the documentation elsewhere (even if the core source code is licensed under AGPLv3 as defined in the [Dual-Licensing Policy](https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE_DUAL_USE_POLICY.md))  
+- Publish, fork, or clone the documentation elsewhere (even if the core source code is licensed under AGPLv3 as defined in the [Dual-Licensing Policy](https://github.com/ViviQD/ViviComm-Lite/blob/main/LICENSE_DUAL_USE_POLICY.md)  
 - Extract sections or diagrams for rebranding or internal corporate reuse  
 - Include the documentation in closed-source SDKs, training sets, or third-party apps  
 - Submit the content to AI indexing, language model training, or summarization engines
@@ -47,16 +47,22 @@ You may not:
 
 ## 📝 Notes
 
-This license is separate from the `LICENSE` (AGPLv3) applied to the core software source code.  
+**This license is separate from the `LICENSE` (AGPLv3) applied to the core software source code.**  
 The documentation is provided under **restricted personal license**, and it is **not free content**.  
-Violations may result in DMCA takedown, public delisting, or legal action.
 
+Violations may result in DMCA takedown, public delisting, or legal action.  
 Any unauthorized reuse or redistribution may result in DMCA takedown notices, de-indexing, or legal action.
 
 ---
 
 For license-related inquiries, contact:  
 📧 [legal@univital.net](mailto:legal@univital.net)
+
+---
+
+<br/>
+
+© 2025 Róbert Kovács. All rights reserved.
 
 <br/>
 
